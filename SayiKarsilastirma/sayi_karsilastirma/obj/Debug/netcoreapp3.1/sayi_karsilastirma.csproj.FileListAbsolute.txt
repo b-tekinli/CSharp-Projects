@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_karsilastirma\sayi_karsilastirma\bin\Debug\netcoreapp3.1\sayi_karsilastirma.exe
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_karsilastirma\sayi_karsilastirma\bin\Debug\netcoreapp3.1\sayi_karsilastirma.deps.json
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_karsilastirma\sayi_karsilastirma\bin\Debug\netcoreapp3.1\sayi_karsilastirma.runtimeconfig.json
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_karsilastirma\sayi_karsilastirma\bin\Debug\netcoreapp3.1\sayi_karsilastirma.runtimeconfig.dev.json
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_karsilastirma\sayi_karsilastirma\bin\Debug\netcoreapp3.1\sayi_karsilastirma.dll
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_karsilastirma\sayi_karsilastirma\bin\Debug\netcoreapp3.1\sayi_karsilastirma.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_karsilastirma\sayi_karsilastirma\obj\Debug\netcoreapp3.1\sayi_karsilastirma.csprojAssemblyReference.cache
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_karsilastirma\sayi_karsilastirma\obj\Debug\netcoreapp3.1\sayi_karsilastirma.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_karsilastirma\sayi_karsilastirma\obj\Debug\netcoreapp3.1\sayi_karsilastirma.AssemblyInfo.cs
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_karsilastirma\sayi_karsilastirma\obj\Debug\netcoreapp3.1\sayi_karsilastirma.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_karsilastirma\sayi_karsilastirma\obj\Debug\netcoreapp3.1\sayi_karsilastirma.dll
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_karsilastirma\sayi_karsilastirma\obj\Debug\netcoreapp3.1\sayi_karsilastirma.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_karsilastirma\sayi_karsilastirma\obj\Debug\netcoreapp3.1\sayi_karsilastirma.genruntimeconfig.cache

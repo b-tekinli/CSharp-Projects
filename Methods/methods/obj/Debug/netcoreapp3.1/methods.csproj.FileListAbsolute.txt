@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\projeler mix dil\c#\methods\methods\bin\Debug\netcoreapp3.1\methods.exe
+C:\Users\user\Desktop\projeler mix dil\c#\methods\methods\bin\Debug\netcoreapp3.1\methods.deps.json
+C:\Users\user\Desktop\projeler mix dil\c#\methods\methods\bin\Debug\netcoreapp3.1\methods.runtimeconfig.json
+C:\Users\user\Desktop\projeler mix dil\c#\methods\methods\bin\Debug\netcoreapp3.1\methods.runtimeconfig.dev.json
+C:\Users\user\Desktop\projeler mix dil\c#\methods\methods\bin\Debug\netcoreapp3.1\methods.dll
+C:\Users\user\Desktop\projeler mix dil\c#\methods\methods\bin\Debug\netcoreapp3.1\methods.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\methods\methods\obj\Debug\netcoreapp3.1\methods.csprojAssemblyReference.cache
+C:\Users\user\Desktop\projeler mix dil\c#\methods\methods\obj\Debug\netcoreapp3.1\methods.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\methods\methods\obj\Debug\netcoreapp3.1\methods.AssemblyInfo.cs
+C:\Users\user\Desktop\projeler mix dil\c#\methods\methods\obj\Debug\netcoreapp3.1\methods.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\methods\methods\obj\Debug\netcoreapp3.1\methods.dll
+C:\Users\user\Desktop\projeler mix dil\c#\methods\methods\obj\Debug\netcoreapp3.1\methods.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\methods\methods\obj\Debug\netcoreapp3.1\methods.genruntimeconfig.cache

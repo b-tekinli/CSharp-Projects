@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\projeler mix dil\c#\FirstMyMethod\FirstMyMethod\bin\Debug\netcoreapp3.1\FirstMyMethod.exe
+C:\Users\user\Desktop\projeler mix dil\c#\FirstMyMethod\FirstMyMethod\bin\Debug\netcoreapp3.1\FirstMyMethod.deps.json
+C:\Users\user\Desktop\projeler mix dil\c#\FirstMyMethod\FirstMyMethod\bin\Debug\netcoreapp3.1\FirstMyMethod.runtimeconfig.json
+C:\Users\user\Desktop\projeler mix dil\c#\FirstMyMethod\FirstMyMethod\bin\Debug\netcoreapp3.1\FirstMyMethod.runtimeconfig.dev.json
+C:\Users\user\Desktop\projeler mix dil\c#\FirstMyMethod\FirstMyMethod\bin\Debug\netcoreapp3.1\FirstMyMethod.dll
+C:\Users\user\Desktop\projeler mix dil\c#\FirstMyMethod\FirstMyMethod\bin\Debug\netcoreapp3.1\FirstMyMethod.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\FirstMyMethod\FirstMyMethod\obj\Debug\netcoreapp3.1\FirstMyMethod.csprojAssemblyReference.cache
+C:\Users\user\Desktop\projeler mix dil\c#\FirstMyMethod\FirstMyMethod\obj\Debug\netcoreapp3.1\FirstMyMethod.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\FirstMyMethod\FirstMyMethod\obj\Debug\netcoreapp3.1\FirstMyMethod.AssemblyInfo.cs
+C:\Users\user\Desktop\projeler mix dil\c#\FirstMyMethod\FirstMyMethod\obj\Debug\netcoreapp3.1\FirstMyMethod.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\FirstMyMethod\FirstMyMethod\obj\Debug\netcoreapp3.1\FirstMyMethod.dll
+C:\Users\user\Desktop\projeler mix dil\c#\FirstMyMethod\FirstMyMethod\obj\Debug\netcoreapp3.1\FirstMyMethod.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\FirstMyMethod\FirstMyMethod\obj\Debug\netcoreapp3.1\FirstMyMethod.genruntimeconfig.cache

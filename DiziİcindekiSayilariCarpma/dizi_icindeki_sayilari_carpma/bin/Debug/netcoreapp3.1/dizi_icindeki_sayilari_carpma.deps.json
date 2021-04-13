@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "dizi_icindeki_sayilari_carpma/1.0.0": {
+        "runtime": {
+          "dizi_icindeki_sayilari_carpma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dizi_icindeki_sayilari_carpma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

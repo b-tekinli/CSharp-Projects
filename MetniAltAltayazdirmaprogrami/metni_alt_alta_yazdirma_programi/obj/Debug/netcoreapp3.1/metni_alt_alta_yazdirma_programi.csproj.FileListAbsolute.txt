@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\projeler mix dil\c#\metni_alt_alta_yazdirma_programi\metni_alt_alta_yazdirma_programi\bin\Debug\netcoreapp3.1\metni_alt_alta_yazdirma_programi.exe
+C:\Users\user\Desktop\projeler mix dil\c#\metni_alt_alta_yazdirma_programi\metni_alt_alta_yazdirma_programi\bin\Debug\netcoreapp3.1\metni_alt_alta_yazdirma_programi.deps.json
+C:\Users\user\Desktop\projeler mix dil\c#\metni_alt_alta_yazdirma_programi\metni_alt_alta_yazdirma_programi\bin\Debug\netcoreapp3.1\metni_alt_alta_yazdirma_programi.runtimeconfig.json
+C:\Users\user\Desktop\projeler mix dil\c#\metni_alt_alta_yazdirma_programi\metni_alt_alta_yazdirma_programi\bin\Debug\netcoreapp3.1\metni_alt_alta_yazdirma_programi.runtimeconfig.dev.json
+C:\Users\user\Desktop\projeler mix dil\c#\metni_alt_alta_yazdirma_programi\metni_alt_alta_yazdirma_programi\bin\Debug\netcoreapp3.1\metni_alt_alta_yazdirma_programi.dll
+C:\Users\user\Desktop\projeler mix dil\c#\metni_alt_alta_yazdirma_programi\metni_alt_alta_yazdirma_programi\bin\Debug\netcoreapp3.1\metni_alt_alta_yazdirma_programi.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\metni_alt_alta_yazdirma_programi\metni_alt_alta_yazdirma_programi\obj\Debug\netcoreapp3.1\metni_alt_alta_yazdirma_programi.csprojAssemblyReference.cache
+C:\Users\user\Desktop\projeler mix dil\c#\metni_alt_alta_yazdirma_programi\metni_alt_alta_yazdirma_programi\obj\Debug\netcoreapp3.1\metni_alt_alta_yazdirma_programi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\metni_alt_alta_yazdirma_programi\metni_alt_alta_yazdirma_programi\obj\Debug\netcoreapp3.1\metni_alt_alta_yazdirma_programi.AssemblyInfo.cs
+C:\Users\user\Desktop\projeler mix dil\c#\metni_alt_alta_yazdirma_programi\metni_alt_alta_yazdirma_programi\obj\Debug\netcoreapp3.1\metni_alt_alta_yazdirma_programi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\metni_alt_alta_yazdirma_programi\metni_alt_alta_yazdirma_programi\obj\Debug\netcoreapp3.1\metni_alt_alta_yazdirma_programi.dll
+C:\Users\user\Desktop\projeler mix dil\c#\metni_alt_alta_yazdirma_programi\metni_alt_alta_yazdirma_programi\obj\Debug\netcoreapp3.1\metni_alt_alta_yazdirma_programi.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\metni_alt_alta_yazdirma_programi\metni_alt_alta_yazdirma_programi\obj\Debug\netcoreapp3.1\metni_alt_alta_yazdirma_programi.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\projeler mix dil\c#\basit hesap makinesi\basit hesap makinesi\bin\Debug\netcoreapp3.1\basit hesap makinesi.exe
+C:\Users\user\Desktop\projeler mix dil\c#\basit hesap makinesi\basit hesap makinesi\bin\Debug\netcoreapp3.1\basit hesap makinesi.deps.json
+C:\Users\user\Desktop\projeler mix dil\c#\basit hesap makinesi\basit hesap makinesi\bin\Debug\netcoreapp3.1\basit hesap makinesi.runtimeconfig.json
+C:\Users\user\Desktop\projeler mix dil\c#\basit hesap makinesi\basit hesap makinesi\bin\Debug\netcoreapp3.1\basit hesap makinesi.runtimeconfig.dev.json
+C:\Users\user\Desktop\projeler mix dil\c#\basit hesap makinesi\basit hesap makinesi\bin\Debug\netcoreapp3.1\basit hesap makinesi.dll
+C:\Users\user\Desktop\projeler mix dil\c#\basit hesap makinesi\basit hesap makinesi\bin\Debug\netcoreapp3.1\basit hesap makinesi.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\basit hesap makinesi\basit hesap makinesi\obj\Debug\netcoreapp3.1\basit hesap makinesi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\basit hesap makinesi\basit hesap makinesi\obj\Debug\netcoreapp3.1\basit hesap makinesi.AssemblyInfo.cs
+C:\Users\user\Desktop\projeler mix dil\c#\basit hesap makinesi\basit hesap makinesi\obj\Debug\netcoreapp3.1\basit hesap makinesi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\basit hesap makinesi\basit hesap makinesi\obj\Debug\netcoreapp3.1\basit hesap makinesi.dll
+C:\Users\user\Desktop\projeler mix dil\c#\basit hesap makinesi\basit hesap makinesi\obj\Debug\netcoreapp3.1\basit hesap makinesi.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\basit hesap makinesi\basit hesap makinesi\obj\Debug\netcoreapp3.1\basit hesap makinesi.genruntimeconfig.cache

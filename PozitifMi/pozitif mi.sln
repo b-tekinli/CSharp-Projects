@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pozitif mi", "pozitif mi\pozitif mi.csproj", "{ABB56D18-C7BF-4154-9140-62BFA130434F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB56D18-C7BF-4154-9140-62BFA130434F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB56D18-C7BF-4154-9140-62BFA130434F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB56D18-C7BF-4154-9140-62BFA130434F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB56D18-C7BF-4154-9140-62BFA130434F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6330649-056F-40CF-AC40-FFEEE1A6A2E4}
+	EndGlobalSection
+EndGlobal

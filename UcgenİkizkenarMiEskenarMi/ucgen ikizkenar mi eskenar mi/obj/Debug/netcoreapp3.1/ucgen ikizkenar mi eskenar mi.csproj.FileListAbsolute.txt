@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\projeler mix dil\c#\ucgen ikizkenar mi eskenar mi\ucgen ikizkenar mi eskenar mi\bin\Debug\netcoreapp3.1\ucgen ikizkenar mi eskenar mi.exe
+C:\Users\user\Desktop\projeler mix dil\c#\ucgen ikizkenar mi eskenar mi\ucgen ikizkenar mi eskenar mi\bin\Debug\netcoreapp3.1\ucgen ikizkenar mi eskenar mi.deps.json
+C:\Users\user\Desktop\projeler mix dil\c#\ucgen ikizkenar mi eskenar mi\ucgen ikizkenar mi eskenar mi\bin\Debug\netcoreapp3.1\ucgen ikizkenar mi eskenar mi.runtimeconfig.json
+C:\Users\user\Desktop\projeler mix dil\c#\ucgen ikizkenar mi eskenar mi\ucgen ikizkenar mi eskenar mi\bin\Debug\netcoreapp3.1\ucgen ikizkenar mi eskenar mi.runtimeconfig.dev.json
+C:\Users\user\Desktop\projeler mix dil\c#\ucgen ikizkenar mi eskenar mi\ucgen ikizkenar mi eskenar mi\bin\Debug\netcoreapp3.1\ucgen ikizkenar mi eskenar mi.dll
+C:\Users\user\Desktop\projeler mix dil\c#\ucgen ikizkenar mi eskenar mi\ucgen ikizkenar mi eskenar mi\bin\Debug\netcoreapp3.1\ucgen ikizkenar mi eskenar mi.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\ucgen ikizkenar mi eskenar mi\ucgen ikizkenar mi eskenar mi\obj\Debug\netcoreapp3.1\ucgen ikizkenar mi eskenar mi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\ucgen ikizkenar mi eskenar mi\ucgen ikizkenar mi eskenar mi\obj\Debug\netcoreapp3.1\ucgen ikizkenar mi eskenar mi.AssemblyInfo.cs
+C:\Users\user\Desktop\projeler mix dil\c#\ucgen ikizkenar mi eskenar mi\ucgen ikizkenar mi eskenar mi\obj\Debug\netcoreapp3.1\ucgen ikizkenar mi eskenar mi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\ucgen ikizkenar mi eskenar mi\ucgen ikizkenar mi eskenar mi\obj\Debug\netcoreapp3.1\ucgen ikizkenar mi eskenar mi.dll
+C:\Users\user\Desktop\projeler mix dil\c#\ucgen ikizkenar mi eskenar mi\ucgen ikizkenar mi eskenar mi\obj\Debug\netcoreapp3.1\ucgen ikizkenar mi eskenar mi.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\ucgen ikizkenar mi eskenar mi\ucgen ikizkenar mi eskenar mi\obj\Debug\netcoreapp3.1\ucgen ikizkenar mi eskenar mi.genruntimeconfig.cache

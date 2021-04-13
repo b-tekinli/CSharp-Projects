@@ -1,0 +1,13 @@
+D:\projeler mix dil\c#\OgrenciUygulamasi\OgrenciUygulamasi\bin\Debug\netcoreapp3.1\OgrenciUygulamasi.exe
+D:\projeler mix dil\c#\OgrenciUygulamasi\OgrenciUygulamasi\bin\Debug\netcoreapp3.1\OgrenciUygulamasi.deps.json
+D:\projeler mix dil\c#\OgrenciUygulamasi\OgrenciUygulamasi\bin\Debug\netcoreapp3.1\OgrenciUygulamasi.runtimeconfig.json
+D:\projeler mix dil\c#\OgrenciUygulamasi\OgrenciUygulamasi\bin\Debug\netcoreapp3.1\OgrenciUygulamasi.runtimeconfig.dev.json
+D:\projeler mix dil\c#\OgrenciUygulamasi\OgrenciUygulamasi\bin\Debug\netcoreapp3.1\OgrenciUygulamasi.dll
+D:\projeler mix dil\c#\OgrenciUygulamasi\OgrenciUygulamasi\bin\Debug\netcoreapp3.1\OgrenciUygulamasi.pdb
+D:\projeler mix dil\c#\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\netcoreapp3.1\OgrenciUygulamasi.csprojAssemblyReference.cache
+D:\projeler mix dil\c#\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\netcoreapp3.1\OgrenciUygulamasi.AssemblyInfoInputs.cache
+D:\projeler mix dil\c#\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\netcoreapp3.1\OgrenciUygulamasi.AssemblyInfo.cs
+D:\projeler mix dil\c#\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\netcoreapp3.1\OgrenciUygulamasi.csproj.CoreCompileInputs.cache
+D:\projeler mix dil\c#\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\netcoreapp3.1\OgrenciUygulamasi.dll
+D:\projeler mix dil\c#\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\netcoreapp3.1\OgrenciUygulamasi.pdb
+D:\projeler mix dil\c#\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\netcoreapp3.1\OgrenciUygulamasi.genruntimeconfig.cache

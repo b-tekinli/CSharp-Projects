@@ -1,0 +1,13 @@
+D:\projeler mix dil\c#\atmOrnegiSwitchCase\atmOrnegiSwitchCase\obj\Debug\netcoreapp3.1\atmOrnegiSwitchCase.csprojAssemblyReference.cache
+D:\projeler mix dil\c#\atmOrnegiSwitchCase\atmOrnegiSwitchCase\obj\Debug\netcoreapp3.1\atmOrnegiSwitchCase.AssemblyInfoInputs.cache
+D:\projeler mix dil\c#\atmOrnegiSwitchCase\atmOrnegiSwitchCase\obj\Debug\netcoreapp3.1\atmOrnegiSwitchCase.AssemblyInfo.cs
+D:\projeler mix dil\c#\atmOrnegiSwitchCase\atmOrnegiSwitchCase\obj\Debug\netcoreapp3.1\atmOrnegiSwitchCase.csproj.CoreCompileInputs.cache
+D:\projeler mix dil\c#\atmOrnegiSwitchCase\atmOrnegiSwitchCase\bin\Debug\netcoreapp3.1\atmOrnegiSwitchCase.exe
+D:\projeler mix dil\c#\atmOrnegiSwitchCase\atmOrnegiSwitchCase\bin\Debug\netcoreapp3.1\atmOrnegiSwitchCase.deps.json
+D:\projeler mix dil\c#\atmOrnegiSwitchCase\atmOrnegiSwitchCase\bin\Debug\netcoreapp3.1\atmOrnegiSwitchCase.runtimeconfig.json
+D:\projeler mix dil\c#\atmOrnegiSwitchCase\atmOrnegiSwitchCase\bin\Debug\netcoreapp3.1\atmOrnegiSwitchCase.runtimeconfig.dev.json
+D:\projeler mix dil\c#\atmOrnegiSwitchCase\atmOrnegiSwitchCase\bin\Debug\netcoreapp3.1\atmOrnegiSwitchCase.dll
+D:\projeler mix dil\c#\atmOrnegiSwitchCase\atmOrnegiSwitchCase\bin\Debug\netcoreapp3.1\atmOrnegiSwitchCase.pdb
+D:\projeler mix dil\c#\atmOrnegiSwitchCase\atmOrnegiSwitchCase\obj\Debug\netcoreapp3.1\atmOrnegiSwitchCase.dll
+D:\projeler mix dil\c#\atmOrnegiSwitchCase\atmOrnegiSwitchCase\obj\Debug\netcoreapp3.1\atmOrnegiSwitchCase.pdb
+D:\projeler mix dil\c#\atmOrnegiSwitchCase\atmOrnegiSwitchCase\obj\Debug\netcoreapp3.1\atmOrnegiSwitchCase.genruntimeconfig.cache

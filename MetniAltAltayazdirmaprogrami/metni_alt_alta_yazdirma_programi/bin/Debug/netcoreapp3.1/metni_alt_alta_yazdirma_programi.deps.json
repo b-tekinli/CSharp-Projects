@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "metni_alt_alta_yazdirma_programi/1.0.0": {
+        "runtime": {
+          "metni_alt_alta_yazdirma_programi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "metni_alt_alta_yazdirma_programi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

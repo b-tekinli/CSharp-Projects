@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\projeler mix dil\c#\kare_cizen_program\kare_cizen_program\bin\Debug\netcoreapp3.1\kare_cizen_program.exe
+C:\Users\user\Desktop\projeler mix dil\c#\kare_cizen_program\kare_cizen_program\bin\Debug\netcoreapp3.1\kare_cizen_program.deps.json
+C:\Users\user\Desktop\projeler mix dil\c#\kare_cizen_program\kare_cizen_program\bin\Debug\netcoreapp3.1\kare_cizen_program.runtimeconfig.json
+C:\Users\user\Desktop\projeler mix dil\c#\kare_cizen_program\kare_cizen_program\bin\Debug\netcoreapp3.1\kare_cizen_program.runtimeconfig.dev.json
+C:\Users\user\Desktop\projeler mix dil\c#\kare_cizen_program\kare_cizen_program\bin\Debug\netcoreapp3.1\kare_cizen_program.dll
+C:\Users\user\Desktop\projeler mix dil\c#\kare_cizen_program\kare_cizen_program\bin\Debug\netcoreapp3.1\kare_cizen_program.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\kare_cizen_program\kare_cizen_program\obj\Debug\netcoreapp3.1\kare_cizen_program.csprojAssemblyReference.cache
+C:\Users\user\Desktop\projeler mix dil\c#\kare_cizen_program\kare_cizen_program\obj\Debug\netcoreapp3.1\kare_cizen_program.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\kare_cizen_program\kare_cizen_program\obj\Debug\netcoreapp3.1\kare_cizen_program.AssemblyInfo.cs
+C:\Users\user\Desktop\projeler mix dil\c#\kare_cizen_program\kare_cizen_program\obj\Debug\netcoreapp3.1\kare_cizen_program.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\kare_cizen_program\kare_cizen_program\obj\Debug\netcoreapp3.1\kare_cizen_program.dll
+C:\Users\user\Desktop\projeler mix dil\c#\kare_cizen_program\kare_cizen_program\obj\Debug\netcoreapp3.1\kare_cizen_program.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\kare_cizen_program\kare_cizen_program\obj\Debug\netcoreapp3.1\kare_cizen_program.genruntimeconfig.cache

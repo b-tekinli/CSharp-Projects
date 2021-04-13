@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\projeler mix dil\c#\dizi_icindeki_sayilari_carpma\dizi_icindeki_sayilari_carpma\obj\Debug\netcoreapp3.1\dizi_icindeki_sayilari_carpma.csprojAssemblyReference.cache
+C:\Users\user\Desktop\projeler mix dil\c#\dizi_icindeki_sayilari_carpma\dizi_icindeki_sayilari_carpma\obj\Debug\netcoreapp3.1\dizi_icindeki_sayilari_carpma.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\dizi_icindeki_sayilari_carpma\dizi_icindeki_sayilari_carpma\obj\Debug\netcoreapp3.1\dizi_icindeki_sayilari_carpma.AssemblyInfo.cs
+C:\Users\user\Desktop\projeler mix dil\c#\dizi_icindeki_sayilari_carpma\dizi_icindeki_sayilari_carpma\obj\Debug\netcoreapp3.1\dizi_icindeki_sayilari_carpma.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\dizi_icindeki_sayilari_carpma\dizi_icindeki_sayilari_carpma\bin\Debug\netcoreapp3.1\dizi_icindeki_sayilari_carpma.exe
+C:\Users\user\Desktop\projeler mix dil\c#\dizi_icindeki_sayilari_carpma\dizi_icindeki_sayilari_carpma\bin\Debug\netcoreapp3.1\dizi_icindeki_sayilari_carpma.deps.json
+C:\Users\user\Desktop\projeler mix dil\c#\dizi_icindeki_sayilari_carpma\dizi_icindeki_sayilari_carpma\bin\Debug\netcoreapp3.1\dizi_icindeki_sayilari_carpma.runtimeconfig.json
+C:\Users\user\Desktop\projeler mix dil\c#\dizi_icindeki_sayilari_carpma\dizi_icindeki_sayilari_carpma\bin\Debug\netcoreapp3.1\dizi_icindeki_sayilari_carpma.runtimeconfig.dev.json
+C:\Users\user\Desktop\projeler mix dil\c#\dizi_icindeki_sayilari_carpma\dizi_icindeki_sayilari_carpma\bin\Debug\netcoreapp3.1\dizi_icindeki_sayilari_carpma.dll
+C:\Users\user\Desktop\projeler mix dil\c#\dizi_icindeki_sayilari_carpma\dizi_icindeki_sayilari_carpma\bin\Debug\netcoreapp3.1\dizi_icindeki_sayilari_carpma.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\dizi_icindeki_sayilari_carpma\dizi_icindeki_sayilari_carpma\obj\Debug\netcoreapp3.1\dizi_icindeki_sayilari_carpma.dll
+C:\Users\user\Desktop\projeler mix dil\c#\dizi_icindeki_sayilari_carpma\dizi_icindeki_sayilari_carpma\obj\Debug\netcoreapp3.1\dizi_icindeki_sayilari_carpma.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\dizi_icindeki_sayilari_carpma\dizi_icindeki_sayilari_carpma\obj\Debug\netcoreapp3.1\dizi_icindeki_sayilari_carpma.genruntimeconfig.cache

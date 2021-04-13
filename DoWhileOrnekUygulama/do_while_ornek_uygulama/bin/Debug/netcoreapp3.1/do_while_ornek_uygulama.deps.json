@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "do_while_ornek_uygulama/1.0.0": {
+        "runtime": {
+          "do_while_ornek_uygulama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "do_while_ornek_uygulama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

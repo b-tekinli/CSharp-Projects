@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_tahmin_oyunu\sayi_tahmin_oyunu\bin\Debug\netcoreapp3.1\sayi_tahmin_oyunu.exe
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_tahmin_oyunu\sayi_tahmin_oyunu\bin\Debug\netcoreapp3.1\sayi_tahmin_oyunu.deps.json
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_tahmin_oyunu\sayi_tahmin_oyunu\bin\Debug\netcoreapp3.1\sayi_tahmin_oyunu.runtimeconfig.json
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_tahmin_oyunu\sayi_tahmin_oyunu\bin\Debug\netcoreapp3.1\sayi_tahmin_oyunu.runtimeconfig.dev.json
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_tahmin_oyunu\sayi_tahmin_oyunu\bin\Debug\netcoreapp3.1\sayi_tahmin_oyunu.dll
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_tahmin_oyunu\sayi_tahmin_oyunu\bin\Debug\netcoreapp3.1\sayi_tahmin_oyunu.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_tahmin_oyunu\sayi_tahmin_oyunu\obj\Debug\netcoreapp3.1\sayi_tahmin_oyunu.csprojAssemblyReference.cache
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_tahmin_oyunu\sayi_tahmin_oyunu\obj\Debug\netcoreapp3.1\sayi_tahmin_oyunu.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_tahmin_oyunu\sayi_tahmin_oyunu\obj\Debug\netcoreapp3.1\sayi_tahmin_oyunu.AssemblyInfo.cs
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_tahmin_oyunu\sayi_tahmin_oyunu\obj\Debug\netcoreapp3.1\sayi_tahmin_oyunu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_tahmin_oyunu\sayi_tahmin_oyunu\obj\Debug\netcoreapp3.1\sayi_tahmin_oyunu.dll
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_tahmin_oyunu\sayi_tahmin_oyunu\obj\Debug\netcoreapp3.1\sayi_tahmin_oyunu.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\sayi_tahmin_oyunu\sayi_tahmin_oyunu\obj\Debug\netcoreapp3.1\sayi_tahmin_oyunu.genruntimeconfig.cache

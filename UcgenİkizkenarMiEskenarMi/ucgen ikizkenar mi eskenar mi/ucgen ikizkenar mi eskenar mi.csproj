@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>ucgen_ikizkenar_mi_eskenar_mi</RootNamespace>
+  </PropertyGroup>
+
+</Project>

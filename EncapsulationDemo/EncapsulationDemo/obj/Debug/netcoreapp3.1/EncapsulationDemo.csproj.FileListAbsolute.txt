@@ -1,0 +1,13 @@
+D:\projeler mix dil\c#\EncapsulationDemo\EncapsulationDemo\bin\Debug\netcoreapp3.1\EncapsulationDemo.exe
+D:\projeler mix dil\c#\EncapsulationDemo\EncapsulationDemo\bin\Debug\netcoreapp3.1\EncapsulationDemo.deps.json
+D:\projeler mix dil\c#\EncapsulationDemo\EncapsulationDemo\bin\Debug\netcoreapp3.1\EncapsulationDemo.runtimeconfig.json
+D:\projeler mix dil\c#\EncapsulationDemo\EncapsulationDemo\bin\Debug\netcoreapp3.1\EncapsulationDemo.runtimeconfig.dev.json
+D:\projeler mix dil\c#\EncapsulationDemo\EncapsulationDemo\bin\Debug\netcoreapp3.1\EncapsulationDemo.dll
+D:\projeler mix dil\c#\EncapsulationDemo\EncapsulationDemo\bin\Debug\netcoreapp3.1\EncapsulationDemo.pdb
+D:\projeler mix dil\c#\EncapsulationDemo\EncapsulationDemo\obj\Debug\netcoreapp3.1\EncapsulationDemo.csprojAssemblyReference.cache
+D:\projeler mix dil\c#\EncapsulationDemo\EncapsulationDemo\obj\Debug\netcoreapp3.1\EncapsulationDemo.AssemblyInfoInputs.cache
+D:\projeler mix dil\c#\EncapsulationDemo\EncapsulationDemo\obj\Debug\netcoreapp3.1\EncapsulationDemo.AssemblyInfo.cs
+D:\projeler mix dil\c#\EncapsulationDemo\EncapsulationDemo\obj\Debug\netcoreapp3.1\EncapsulationDemo.csproj.CoreCompileInputs.cache
+D:\projeler mix dil\c#\EncapsulationDemo\EncapsulationDemo\obj\Debug\netcoreapp3.1\EncapsulationDemo.dll
+D:\projeler mix dil\c#\EncapsulationDemo\EncapsulationDemo\obj\Debug\netcoreapp3.1\EncapsulationDemo.pdb
+D:\projeler mix dil\c#\EncapsulationDemo\EncapsulationDemo\obj\Debug\netcoreapp3.1\EncapsulationDemo.genruntimeconfig.cache

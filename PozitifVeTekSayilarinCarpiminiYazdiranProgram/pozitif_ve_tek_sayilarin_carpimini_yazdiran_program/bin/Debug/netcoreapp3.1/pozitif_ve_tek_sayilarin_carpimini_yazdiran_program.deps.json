@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "pozitif_ve_tek_sayilarin_carpimini_yazdiran_program/1.0.0": {
+        "runtime": {
+          "pozitif_ve_tek_sayilarin_carpimini_yazdiran_program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pozitif_ve_tek_sayilarin_carpimini_yazdiran_program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\projeler mix dil\c#\while_dongusu\while_dongusu\bin\Debug\netcoreapp3.1\while_dongusu.exe
+C:\Users\user\Desktop\projeler mix dil\c#\while_dongusu\while_dongusu\bin\Debug\netcoreapp3.1\while_dongusu.deps.json
+C:\Users\user\Desktop\projeler mix dil\c#\while_dongusu\while_dongusu\bin\Debug\netcoreapp3.1\while_dongusu.runtimeconfig.json
+C:\Users\user\Desktop\projeler mix dil\c#\while_dongusu\while_dongusu\bin\Debug\netcoreapp3.1\while_dongusu.runtimeconfig.dev.json
+C:\Users\user\Desktop\projeler mix dil\c#\while_dongusu\while_dongusu\bin\Debug\netcoreapp3.1\while_dongusu.dll
+C:\Users\user\Desktop\projeler mix dil\c#\while_dongusu\while_dongusu\bin\Debug\netcoreapp3.1\while_dongusu.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\while_dongusu\while_dongusu\obj\Debug\netcoreapp3.1\while_dongusu.csprojAssemblyReference.cache
+C:\Users\user\Desktop\projeler mix dil\c#\while_dongusu\while_dongusu\obj\Debug\netcoreapp3.1\while_dongusu.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\while_dongusu\while_dongusu\obj\Debug\netcoreapp3.1\while_dongusu.AssemblyInfo.cs
+C:\Users\user\Desktop\projeler mix dil\c#\while_dongusu\while_dongusu\obj\Debug\netcoreapp3.1\while_dongusu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\while_dongusu\while_dongusu\obj\Debug\netcoreapp3.1\while_dongusu.dll
+C:\Users\user\Desktop\projeler mix dil\c#\while_dongusu\while_dongusu\obj\Debug\netcoreapp3.1\while_dongusu.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\while_dongusu\while_dongusu\obj\Debug\netcoreapp3.1\while_dongusu.genruntimeconfig.cache

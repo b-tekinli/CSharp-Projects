@@ -1,0 +1,13 @@
+D:\projeler mix dil\c#\HesapMakinesi\HesapMakinesi\bin\Debug\netcoreapp3.1\HesapMakinesi.exe
+D:\projeler mix dil\c#\HesapMakinesi\HesapMakinesi\bin\Debug\netcoreapp3.1\HesapMakinesi.deps.json
+D:\projeler mix dil\c#\HesapMakinesi\HesapMakinesi\bin\Debug\netcoreapp3.1\HesapMakinesi.runtimeconfig.json
+D:\projeler mix dil\c#\HesapMakinesi\HesapMakinesi\bin\Debug\netcoreapp3.1\HesapMakinesi.runtimeconfig.dev.json
+D:\projeler mix dil\c#\HesapMakinesi\HesapMakinesi\bin\Debug\netcoreapp3.1\HesapMakinesi.dll
+D:\projeler mix dil\c#\HesapMakinesi\HesapMakinesi\bin\Debug\netcoreapp3.1\HesapMakinesi.pdb
+D:\projeler mix dil\c#\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.csprojAssemblyReference.cache
+D:\projeler mix dil\c#\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.AssemblyInfoInputs.cache
+D:\projeler mix dil\c#\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.AssemblyInfo.cs
+D:\projeler mix dil\c#\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.csproj.CoreCompileInputs.cache
+D:\projeler mix dil\c#\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.dll
+D:\projeler mix dil\c#\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.pdb
+D:\projeler mix dil\c#\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\projeler mix dil\c#\kuraCekmeProgrami\kuraCekmeProgrami\obj\Debug\netcoreapp3.1\kuraCekmeProgrami.csprojAssemblyReference.cache
+C:\Users\user\Desktop\projeler mix dil\c#\kuraCekmeProgrami\kuraCekmeProgrami\obj\Debug\netcoreapp3.1\kuraCekmeProgrami.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\kuraCekmeProgrami\kuraCekmeProgrami\obj\Debug\netcoreapp3.1\kuraCekmeProgrami.AssemblyInfo.cs
+C:\Users\user\Desktop\projeler mix dil\c#\kuraCekmeProgrami\kuraCekmeProgrami\obj\Debug\netcoreapp3.1\kuraCekmeProgrami.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\kuraCekmeProgrami\kuraCekmeProgrami\bin\Debug\netcoreapp3.1\kuraCekmeProgrami.exe
+C:\Users\user\Desktop\projeler mix dil\c#\kuraCekmeProgrami\kuraCekmeProgrami\bin\Debug\netcoreapp3.1\kuraCekmeProgrami.deps.json
+C:\Users\user\Desktop\projeler mix dil\c#\kuraCekmeProgrami\kuraCekmeProgrami\bin\Debug\netcoreapp3.1\kuraCekmeProgrami.runtimeconfig.json
+C:\Users\user\Desktop\projeler mix dil\c#\kuraCekmeProgrami\kuraCekmeProgrami\bin\Debug\netcoreapp3.1\kuraCekmeProgrami.runtimeconfig.dev.json
+C:\Users\user\Desktop\projeler mix dil\c#\kuraCekmeProgrami\kuraCekmeProgrami\bin\Debug\netcoreapp3.1\kuraCekmeProgrami.dll
+C:\Users\user\Desktop\projeler mix dil\c#\kuraCekmeProgrami\kuraCekmeProgrami\bin\Debug\netcoreapp3.1\kuraCekmeProgrami.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\kuraCekmeProgrami\kuraCekmeProgrami\obj\Debug\netcoreapp3.1\kuraCekmeProgrami.dll
+C:\Users\user\Desktop\projeler mix dil\c#\kuraCekmeProgrami\kuraCekmeProgrami\obj\Debug\netcoreapp3.1\kuraCekmeProgrami.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\kuraCekmeProgrami\kuraCekmeProgrami\obj\Debug\netcoreapp3.1\kuraCekmeProgrami.genruntimeconfig.cache

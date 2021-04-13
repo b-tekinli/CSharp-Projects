@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\projeler mix dil\c#\ortalama_hesaplama\ortalama_hesaplama\obj\Debug\netcoreapp3.1\ortalama_hesaplama.csprojAssemblyReference.cache
+C:\Users\user\Desktop\projeler mix dil\c#\ortalama_hesaplama\ortalama_hesaplama\obj\Debug\netcoreapp3.1\ortalama_hesaplama.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\ortalama_hesaplama\ortalama_hesaplama\obj\Debug\netcoreapp3.1\ortalama_hesaplama.AssemblyInfo.cs
+C:\Users\user\Desktop\projeler mix dil\c#\ortalama_hesaplama\ortalama_hesaplama\obj\Debug\netcoreapp3.1\ortalama_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\ortalama_hesaplama\ortalama_hesaplama\bin\Debug\netcoreapp3.1\ortalama_hesaplama.exe
+C:\Users\user\Desktop\projeler mix dil\c#\ortalama_hesaplama\ortalama_hesaplama\bin\Debug\netcoreapp3.1\ortalama_hesaplama.deps.json
+C:\Users\user\Desktop\projeler mix dil\c#\ortalama_hesaplama\ortalama_hesaplama\bin\Debug\netcoreapp3.1\ortalama_hesaplama.runtimeconfig.json
+C:\Users\user\Desktop\projeler mix dil\c#\ortalama_hesaplama\ortalama_hesaplama\bin\Debug\netcoreapp3.1\ortalama_hesaplama.runtimeconfig.dev.json
+C:\Users\user\Desktop\projeler mix dil\c#\ortalama_hesaplama\ortalama_hesaplama\bin\Debug\netcoreapp3.1\ortalama_hesaplama.dll
+C:\Users\user\Desktop\projeler mix dil\c#\ortalama_hesaplama\ortalama_hesaplama\bin\Debug\netcoreapp3.1\ortalama_hesaplama.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\ortalama_hesaplama\ortalama_hesaplama\obj\Debug\netcoreapp3.1\ortalama_hesaplama.dll
+C:\Users\user\Desktop\projeler mix dil\c#\ortalama_hesaplama\ortalama_hesaplama\obj\Debug\netcoreapp3.1\ortalama_hesaplama.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\ortalama_hesaplama\ortalama_hesaplama\obj\Debug\netcoreapp3.1\ortalama_hesaplama.genruntimeconfig.cache

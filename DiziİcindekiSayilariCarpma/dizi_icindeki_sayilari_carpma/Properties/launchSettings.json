@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "dizi_icindeki_sayilari_carpma": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

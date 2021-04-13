@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\projeler mix dil\c#\ehliyet\ehliyet\bin\Debug\netcoreapp3.1\ehliyet.exe
+C:\Users\user\Desktop\projeler mix dil\c#\ehliyet\ehliyet\bin\Debug\netcoreapp3.1\ehliyet.deps.json
+C:\Users\user\Desktop\projeler mix dil\c#\ehliyet\ehliyet\bin\Debug\netcoreapp3.1\ehliyet.runtimeconfig.json
+C:\Users\user\Desktop\projeler mix dil\c#\ehliyet\ehliyet\bin\Debug\netcoreapp3.1\ehliyet.runtimeconfig.dev.json
+C:\Users\user\Desktop\projeler mix dil\c#\ehliyet\ehliyet\bin\Debug\netcoreapp3.1\ehliyet.dll
+C:\Users\user\Desktop\projeler mix dil\c#\ehliyet\ehliyet\bin\Debug\netcoreapp3.1\ehliyet.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\ehliyet\ehliyet\obj\Debug\netcoreapp3.1\ehliyet.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\ehliyet\ehliyet\obj\Debug\netcoreapp3.1\ehliyet.AssemblyInfo.cs
+C:\Users\user\Desktop\projeler mix dil\c#\ehliyet\ehliyet\obj\Debug\netcoreapp3.1\ehliyet.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\ehliyet\ehliyet\obj\Debug\netcoreapp3.1\ehliyet.dll
+C:\Users\user\Desktop\projeler mix dil\c#\ehliyet\ehliyet\obj\Debug\netcoreapp3.1\ehliyet.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\ehliyet\ehliyet\obj\Debug\netcoreapp3.1\ehliyet.genruntimeconfig.cache

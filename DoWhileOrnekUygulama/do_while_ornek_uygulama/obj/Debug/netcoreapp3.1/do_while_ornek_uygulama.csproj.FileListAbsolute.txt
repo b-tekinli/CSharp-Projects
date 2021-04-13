@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\projeler mix dil\c#\do_while_ornek_uygulama\do_while_ornek_uygulama\obj\Debug\netcoreapp3.1\do_while_ornek_uygulama.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\do_while_ornek_uygulama\do_while_ornek_uygulama\obj\Debug\netcoreapp3.1\do_while_ornek_uygulama.AssemblyInfo.cs
+C:\Users\user\Desktop\projeler mix dil\c#\do_while_ornek_uygulama\do_while_ornek_uygulama\obj\Debug\netcoreapp3.1\do_while_ornek_uygulama.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projeler mix dil\c#\do_while_ornek_uygulama\do_while_ornek_uygulama\bin\Debug\netcoreapp3.1\do_while_ornek_uygulama.exe
+C:\Users\user\Desktop\projeler mix dil\c#\do_while_ornek_uygulama\do_while_ornek_uygulama\bin\Debug\netcoreapp3.1\do_while_ornek_uygulama.deps.json
+C:\Users\user\Desktop\projeler mix dil\c#\do_while_ornek_uygulama\do_while_ornek_uygulama\bin\Debug\netcoreapp3.1\do_while_ornek_uygulama.runtimeconfig.json
+C:\Users\user\Desktop\projeler mix dil\c#\do_while_ornek_uygulama\do_while_ornek_uygulama\bin\Debug\netcoreapp3.1\do_while_ornek_uygulama.runtimeconfig.dev.json
+C:\Users\user\Desktop\projeler mix dil\c#\do_while_ornek_uygulama\do_while_ornek_uygulama\bin\Debug\netcoreapp3.1\do_while_ornek_uygulama.dll
+C:\Users\user\Desktop\projeler mix dil\c#\do_while_ornek_uygulama\do_while_ornek_uygulama\bin\Debug\netcoreapp3.1\do_while_ornek_uygulama.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\do_while_ornek_uygulama\do_while_ornek_uygulama\obj\Debug\netcoreapp3.1\do_while_ornek_uygulama.dll
+C:\Users\user\Desktop\projeler mix dil\c#\do_while_ornek_uygulama\do_while_ornek_uygulama\obj\Debug\netcoreapp3.1\do_while_ornek_uygulama.pdb
+C:\Users\user\Desktop\projeler mix dil\c#\do_while_ornek_uygulama\do_while_ornek_uygulama\obj\Debug\netcoreapp3.1\do_while_ornek_uygulama.genruntimeconfig.cache
