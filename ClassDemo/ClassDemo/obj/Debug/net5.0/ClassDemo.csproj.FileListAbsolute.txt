@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\CSharp-Projects\ClassDemo\ClassDemo\bin\Debug\net5.0\ClassDemo.exe
+C:\Users\user\source\repos\CSharp-Projects\ClassDemo\ClassDemo\bin\Debug\net5.0\ClassDemo.deps.json
+C:\Users\user\source\repos\CSharp-Projects\ClassDemo\ClassDemo\bin\Debug\net5.0\ClassDemo.runtimeconfig.json
+C:\Users\user\source\repos\CSharp-Projects\ClassDemo\ClassDemo\bin\Debug\net5.0\ClassDemo.runtimeconfig.dev.json
+C:\Users\user\source\repos\CSharp-Projects\ClassDemo\ClassDemo\bin\Debug\net5.0\ClassDemo.dll
+C:\Users\user\source\repos\CSharp-Projects\ClassDemo\ClassDemo\bin\Debug\net5.0\ref\ClassDemo.dll
+C:\Users\user\source\repos\CSharp-Projects\ClassDemo\ClassDemo\bin\Debug\net5.0\ClassDemo.pdb
+C:\Users\user\source\repos\CSharp-Projects\ClassDemo\ClassDemo\obj\Debug\net5.0\ClassDemo.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharp-Projects\ClassDemo\ClassDemo\obj\Debug\net5.0\ClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CSharp-Projects\ClassDemo\ClassDemo\obj\Debug\net5.0\ClassDemo.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CSharp-Projects\ClassDemo\ClassDemo\obj\Debug\net5.0\ClassDemo.AssemblyInfo.cs
+C:\Users\user\source\repos\CSharp-Projects\ClassDemo\ClassDemo\obj\Debug\net5.0\ClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharp-Projects\ClassDemo\ClassDemo\obj\Debug\net5.0\ClassDemo.dll
+C:\Users\user\source\repos\CSharp-Projects\ClassDemo\ClassDemo\obj\Debug\net5.0\ref\ClassDemo.dll
+C:\Users\user\source\repos\CSharp-Projects\ClassDemo\ClassDemo\obj\Debug\net5.0\ClassDemo.pdb
+C:\Users\user\source\repos\CSharp-Projects\ClassDemo\ClassDemo\obj\Debug\net5.0\ClassDemo.genruntimeconfig.cache
