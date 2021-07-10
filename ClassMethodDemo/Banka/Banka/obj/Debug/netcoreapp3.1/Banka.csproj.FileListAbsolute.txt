@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Banka\Banka\bin\Debug\netcoreapp3.1\Banka.exe
+C:\Users\user\source\repos\Banka\Banka\bin\Debug\netcoreapp3.1\Banka.deps.json
+C:\Users\user\source\repos\Banka\Banka\bin\Debug\netcoreapp3.1\Banka.runtimeconfig.json
+C:\Users\user\source\repos\Banka\Banka\bin\Debug\netcoreapp3.1\Banka.runtimeconfig.dev.json
+C:\Users\user\source\repos\Banka\Banka\bin\Debug\netcoreapp3.1\Banka.dll
+C:\Users\user\source\repos\Banka\Banka\bin\Debug\netcoreapp3.1\Banka.pdb
+C:\Users\user\source\repos\Banka\Banka\obj\Debug\netcoreapp3.1\Banka.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Banka\Banka\obj\Debug\netcoreapp3.1\Banka.AssemblyInfo.cs
+C:\Users\user\source\repos\Banka\Banka\obj\Debug\netcoreapp3.1\Banka.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Banka\Banka\obj\Debug\netcoreapp3.1\Banka.dll
+C:\Users\user\source\repos\Banka\Banka\obj\Debug\netcoreapp3.1\Banka.pdb
+C:\Users\user\source\repos\Banka\Banka\obj\Debug\netcoreapp3.1\Banka.genruntimeconfig.cache
