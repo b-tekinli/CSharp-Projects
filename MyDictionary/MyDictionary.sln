@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
@@ -23,3 +24,30 @@ Global
 		SolutionGuid = {A8E16BEE-E831-4F66-B195-AD7B00DD7017}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{EA7406C9-9997-460B-8377-AD63E6C57E60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA7406C9-9997-460B-8377-AD63E6C57E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA7406C9-9997-460B-8377-AD63E6C57E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA7406C9-9997-460B-8377-AD63E6C57E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA7406C9-9997-460B-8377-AD63E6C57E60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8E16BEE-E831-4F66-B195-AD7B00DD7017}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 5d07406a97d5525537787655630dbdd687a24c2c

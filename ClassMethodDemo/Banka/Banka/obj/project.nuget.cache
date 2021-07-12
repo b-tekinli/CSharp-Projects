@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "Giv4NnCX395D7OhA3PkkvYAmVoaSo9dZ3umQfe+2x4ZzrTrQTGJnrRXU3hldSnWBjp1Fj+wqTKs26FQGj1x1Pw==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\user\\source\\repos\\Banka\\Banka\\Banka.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "Giv4NnCX395D7OhA3PkkvYAmVoaSo9dZ3umQfe+2x4ZzrTrQTGJnrRXU3hldSnWBjp1Fj+wqTKs26FQGj1x1Pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Banka\\Banka\\Banka.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 5d07406a97d5525537787655630dbdd687a24c2c
 }

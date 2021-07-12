@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
@@ -23,3 +24,30 @@ Global
 		SolutionGuid = {D83A3BC0-7F72-47AD-B392-37B5E7853BAD}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banka", "Banka\Banka.csproj", "{F02C0B13-8B6B-4B43-8379-58E8F7878C75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F02C0B13-8B6B-4B43-8379-58E8F7878C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F02C0B13-8B6B-4B43-8379-58E8F7878C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F02C0B13-8B6B-4B43-8379-58E8F7878C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F02C0B13-8B6B-4B43-8379-58E8F7878C75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D83A3BC0-7F72-47AD-B392-37B5E7853BAD}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 5d07406a97d5525537787655630dbdd687a24c2c

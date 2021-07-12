@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\user\source\repos\Otel\Otel\bin\Debug\netcoreapp3.1\Otel.exe
 C:\Users\user\source\repos\Otel\Otel\bin\Debug\netcoreapp3.1\Otel.deps.json
 C:\Users\user\source\repos\Otel\Otel\bin\Debug\netcoreapp3.1\Otel.runtimeconfig.json
@@ -10,3 +11,17 @@ C:\Users\user\source\repos\Otel\Otel\obj\Debug\netcoreapp3.1\Otel.csproj.CoreCom
 C:\Users\user\source\repos\Otel\Otel\obj\Debug\netcoreapp3.1\Otel.dll
 C:\Users\user\source\repos\Otel\Otel\obj\Debug\netcoreapp3.1\Otel.pdb
 C:\Users\user\source\repos\Otel\Otel\obj\Debug\netcoreapp3.1\Otel.genruntimeconfig.cache
+=======
+C:\Users\user\source\repos\Otel\Otel\bin\Debug\netcoreapp3.1\Otel.exe
+C:\Users\user\source\repos\Otel\Otel\bin\Debug\netcoreapp3.1\Otel.deps.json
+C:\Users\user\source\repos\Otel\Otel\bin\Debug\netcoreapp3.1\Otel.runtimeconfig.json
+C:\Users\user\source\repos\Otel\Otel\bin\Debug\netcoreapp3.1\Otel.runtimeconfig.dev.json
+C:\Users\user\source\repos\Otel\Otel\bin\Debug\netcoreapp3.1\Otel.dll
+C:\Users\user\source\repos\Otel\Otel\bin\Debug\netcoreapp3.1\Otel.pdb
+C:\Users\user\source\repos\Otel\Otel\obj\Debug\netcoreapp3.1\Otel.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Otel\Otel\obj\Debug\netcoreapp3.1\Otel.AssemblyInfo.cs
+C:\Users\user\source\repos\Otel\Otel\obj\Debug\netcoreapp3.1\Otel.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Otel\Otel\obj\Debug\netcoreapp3.1\Otel.dll
+C:\Users\user\source\repos\Otel\Otel\obj\Debug\netcoreapp3.1\Otel.pdb
+C:\Users\user\source\repos\Otel\Otel\obj\Debug\netcoreapp3.1\Otel.genruntimeconfig.cache
+>>>>>>> 5d07406a97d5525537787655630dbdd687a24c2c

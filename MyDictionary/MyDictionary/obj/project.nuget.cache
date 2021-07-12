@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "yI1uhwWF9RG0uqiuLfQ/vdZg7e50q5MgdugxRaIgkG1zqAx5vZksbrE0RyjZJIwwSQVl0RCVlNA9I8I3Mm6qFw==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\user\\source\\repos\\MyDictionary\\MyDictionary\\MyDictionary.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "yI1uhwWF9RG0uqiuLfQ/vdZg7e50q5MgdugxRaIgkG1zqAx5vZksbrE0RyjZJIwwSQVl0RCVlNA9I8I3Mm6qFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\MyDictionary\\MyDictionary\\MyDictionary.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 5d07406a97d5525537787655630dbdd687a24c2c
 }

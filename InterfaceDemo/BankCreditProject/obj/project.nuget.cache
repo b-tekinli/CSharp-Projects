@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "1nB3aUMnytiKjvZdFX5PYFXxC8E4WokIJG9uF5taRG9Nub0sV5wGI7EaQ7f4aDere16iyi1fdmpMFgYuuLGcQg==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\user\\source\\repos\\BankCreditProject\\BankCreditProject\\BankCreditProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "1nB3aUMnytiKjvZdFX5PYFXxC8E4WokIJG9uF5taRG9Nub0sV5wGI7EaQ7f4aDere16iyi1fdmpMFgYuuLGcQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\BankCreditProject\\BankCreditProject\\BankCreditProject.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 5d07406a97d5525537787655630dbdd687a24c2c
 }

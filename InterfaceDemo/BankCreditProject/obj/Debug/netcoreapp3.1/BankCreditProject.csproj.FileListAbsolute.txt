@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\user\source\repos\BankCreditProject\BankCreditProject\bin\Debug\netcoreapp3.1\BankCreditProject.exe
 C:\Users\user\source\repos\BankCreditProject\BankCreditProject\bin\Debug\netcoreapp3.1\BankCreditProject.deps.json
 C:\Users\user\source\repos\BankCreditProject\BankCreditProject\bin\Debug\netcoreapp3.1\BankCreditProject.runtimeconfig.json
@@ -11,3 +12,18 @@ C:\Users\user\source\repos\BankCreditProject\BankCreditProject\obj\Debug\netcore
 C:\Users\user\source\repos\BankCreditProject\BankCreditProject\obj\Debug\netcoreapp3.1\BankCreditProject.dll
 C:\Users\user\source\repos\BankCreditProject\BankCreditProject\obj\Debug\netcoreapp3.1\BankCreditProject.pdb
 C:\Users\user\source\repos\BankCreditProject\BankCreditProject\obj\Debug\netcoreapp3.1\BankCreditProject.genruntimeconfig.cache
+=======
+C:\Users\user\source\repos\BankCreditProject\BankCreditProject\bin\Debug\netcoreapp3.1\BankCreditProject.exe
+C:\Users\user\source\repos\BankCreditProject\BankCreditProject\bin\Debug\netcoreapp3.1\BankCreditProject.deps.json
+C:\Users\user\source\repos\BankCreditProject\BankCreditProject\bin\Debug\netcoreapp3.1\BankCreditProject.runtimeconfig.json
+C:\Users\user\source\repos\BankCreditProject\BankCreditProject\bin\Debug\netcoreapp3.1\BankCreditProject.runtimeconfig.dev.json
+C:\Users\user\source\repos\BankCreditProject\BankCreditProject\bin\Debug\netcoreapp3.1\BankCreditProject.dll
+C:\Users\user\source\repos\BankCreditProject\BankCreditProject\bin\Debug\netcoreapp3.1\BankCreditProject.pdb
+C:\Users\user\source\repos\BankCreditProject\BankCreditProject\obj\Debug\netcoreapp3.1\BankCreditProject.csprojAssemblyReference.cache
+C:\Users\user\source\repos\BankCreditProject\BankCreditProject\obj\Debug\netcoreapp3.1\BankCreditProject.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BankCreditProject\BankCreditProject\obj\Debug\netcoreapp3.1\BankCreditProject.AssemblyInfo.cs
+C:\Users\user\source\repos\BankCreditProject\BankCreditProject\obj\Debug\netcoreapp3.1\BankCreditProject.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BankCreditProject\BankCreditProject\obj\Debug\netcoreapp3.1\BankCreditProject.dll
+C:\Users\user\source\repos\BankCreditProject\BankCreditProject\obj\Debug\netcoreapp3.1\BankCreditProject.pdb
+C:\Users\user\source\repos\BankCreditProject\BankCreditProject\obj\Debug\netcoreapp3.1\BankCreditProject.genruntimeconfig.cache
+>>>>>>> 5d07406a97d5525537787655630dbdd687a24c2c
