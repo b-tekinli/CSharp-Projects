@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\CSharp-Projects\ShapeApp\ShapeApp\bin\Debug\net5.0\ShapeApp.exe
+C:\Users\user\source\repos\CSharp-Projects\ShapeApp\ShapeApp\bin\Debug\net5.0\ShapeApp.deps.json
+C:\Users\user\source\repos\CSharp-Projects\ShapeApp\ShapeApp\bin\Debug\net5.0\ShapeApp.runtimeconfig.json
+C:\Users\user\source\repos\CSharp-Projects\ShapeApp\ShapeApp\bin\Debug\net5.0\ShapeApp.runtimeconfig.dev.json
+C:\Users\user\source\repos\CSharp-Projects\ShapeApp\ShapeApp\bin\Debug\net5.0\ShapeApp.dll
+C:\Users\user\source\repos\CSharp-Projects\ShapeApp\ShapeApp\bin\Debug\net5.0\ref\ShapeApp.dll
+C:\Users\user\source\repos\CSharp-Projects\ShapeApp\ShapeApp\bin\Debug\net5.0\ShapeApp.pdb
+C:\Users\user\source\repos\CSharp-Projects\ShapeApp\ShapeApp\obj\Debug\net5.0\ShapeApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharp-Projects\ShapeApp\ShapeApp\obj\Debug\net5.0\ShapeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CSharp-Projects\ShapeApp\ShapeApp\obj\Debug\net5.0\ShapeApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CSharp-Projects\ShapeApp\ShapeApp\obj\Debug\net5.0\ShapeApp.AssemblyInfo.cs
+C:\Users\user\source\repos\CSharp-Projects\ShapeApp\ShapeApp\obj\Debug\net5.0\ShapeApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharp-Projects\ShapeApp\ShapeApp\obj\Debug\net5.0\ShapeApp.dll
+C:\Users\user\source\repos\CSharp-Projects\ShapeApp\ShapeApp\obj\Debug\net5.0\ref\ShapeApp.dll
+C:\Users\user\source\repos\CSharp-Projects\ShapeApp\ShapeApp\obj\Debug\net5.0\ShapeApp.pdb
+C:\Users\user\source\repos\CSharp-Projects\ShapeApp\ShapeApp\obj\Debug\net5.0\ShapeApp.genruntimeconfig.cache
