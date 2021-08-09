@@ -8,10 +8,10 @@ namespace TelephoneDirectory
 {
     interface IPerson
     {
-        void SaveNumber(Person person);
-        void DelNumber(Person person);
-        void UpdateNumber(Person person);
-        void ListDirectory(Person person);
-        void SearchDirectory(Person person);
+        public void SaveNumber(Person person);
+        public void DelNumber(Person person);
+        public void UpdateNumber(Person person);
+        public void ListDirectory(Person person);
+        public void SearchDirectory(Person person);
     }
 }
