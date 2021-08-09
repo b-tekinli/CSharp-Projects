@@ -9,6 +9,7 @@ namespace InheritanceDemo
     public class Developer : Employee
     {
         private string languages;
+        
         public Developer(int id, string name, string surname, string languages) : base(id, name, surname)
         {
             this.languages = languages;
