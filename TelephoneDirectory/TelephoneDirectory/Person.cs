@@ -6,14 +6,11 @@ using System.Threading.Tasks;
 
 namespace TelephoneDirectory
 {
-    public class Person : IPerson
+    public class Person
     {
         public string name { get; set; }
         public string surname { get; set; }
         public string number { get; set; }
-
-
-        List<Person> Persons = new List<Person>();
 
         public Person(string name, string surname, string number)
         {
@@ -21,6 +18,7 @@ namespace TelephoneDirectory
             this.surname = surname;
             this.number = number;
         }
+
 
         public Person()
         {
@@ -33,10 +31,10 @@ namespace TelephoneDirectory
 
         public void ListDirectory(Person person)
         {
-            foreach (Person persons in Persons)
-            {
-                Console.WriteLine(person.name);
-            }
+            //foreach (Person persons in Persons)
+            //{
+            //    Console.WriteLine(person.name);
+            //}
 
             Console.WriteLine("Kişileriniz listelendi.");
         }
@@ -48,10 +46,12 @@ namespace TelephoneDirectory
 
         public void SearchDirectory(Person person)
         {
-            if (Persons.Contains(person))
-            {
-                Console.WriteLine("{0} adlı kişi bu rehberde mevcuttur.", person.name);
-            }
+            //if (Persons.Contains(person))
+            //{
+                
+            //}
+
+            Console.WriteLine("{0} adlı kişi bu rehberde mevcuttur.", person.name);
         }
 
         public void UpdateNumber(Person person)
