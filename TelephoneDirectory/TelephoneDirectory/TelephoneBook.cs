@@ -100,7 +100,122 @@ namespace TelephoneDirectory
                             Console.WriteLine("Geçersiz karakter girdiniz lütfen tekrar deneyiniz...");
                         }
                     }
+
+                    switch (select)
+                    {
+                        case 'E':
+                            TD.Remove(person);
+                            Console.WriteLine("Kişiyi silme işlemi başarılı!");
+                            break;
+                        case 'H':
+                            Console.WriteLine("Kişiyi silmekten vazgeçtiniz.");
+                            break;
+                    }
+
+                    break;
                 }
+            }
+
+            if (isAnyone)
+            {
+                Console.WriteLine("Aradığınız kişi rehberde bulunamadı!");
+            }
+        }
+
+        public void UpdatePerson()
+        {
+            Console.WriteLine("Güncellemek istediğiniz kişinin ad ve soyadını giriniz: ");
+            string updatePerson = Console.ReadLine();
+
+            Console.WriteLine("Güncel numarayı giriniz: ");
+            string newNumber = Console.ReadLine();
+
+            string[] persons = new string[TD.Keys.Count];
+            TD.Keys.CopyTo(persons, 0);
+
+            bool isAnyone = false;
+
+            foreach (var person in persons)
+            {
+                if (persons.Contains(updatePerson))
+                {
+                    isAnyone = true;
+                    char select;
+
+                    while (true)
+                    {
+                        Console.WriteLine("\nKişiyi güncellemek istiyor musunuz?(E/H)");
+
+                        if (char.TryParse(Console.ReadLine(), out char temp))
+                        {
+                            select = temp;
+                            break;
+                        }
+                        else
+                        {
+                            Console.WriteLine("Geçersiz karakter girdiniz lütfen tekrar deneyiniz...");
+                        }
+                    }
+
+                    switch (select)
+                    {
+                        case 'E':
+                            TD.Remove(person);
+                            Console.WriteLine("Kişiyi güncelleme işlemi başarılı!");
+                            break;
+                        case 'H':
+                            Console.WriteLine("Kişiyi güncellemekten vazgeçtiniz.");
+                            break;
+                    }
+
+                    break;
+                }
+            }
+
+            if (isAnyone)
+            {
+                Console.WriteLine("Aradığınız kişi rehberde bulunamadı!");
+            }
+        }
+
+        public void ToListPerson()
+        {
+            string[] names = new string[TD.Keys.Count];
+            TD.Keys.CopyTo(names, 0);
+
+            Console.WriteLine("\n1) A-Z\n2) Z-A\nSıralama türü seçiniz: ");
+            int select = int.Parse(Console.ReadLine());
+
+            switch (select)
+            {
+                case 1:
+                    Array.Sort(names);
+                    Console.WriteLine("Arama sonuçlarınız: \n****************************");
+
+                    foreach (var name in names)
+                    {
+                        string[] list = name.Split(' ');
+                        Console.WriteLine("Name    : " + list[0]);
+                        Console.WriteLine("Surname : " + list[list.Length - 1]);
+                        Console.WriteLine("Phone   : " + TD[name]);
+                        Console.WriteLine("**********************************************");
+                    }
+                    break;
+
+                case 2:
+                    Array.Sort(names);
+                    Array.Reverse(names);
+                    Console.WriteLine("Arama sonuçlarınız: \n****************************");
+
+                    foreach (var name in names)
+                    {
+                        string[] list = name.Split(' ');
+                        Console.WriteLine("Name    : " + list[0]);
+                        Console.WriteLine("Surname : " + list[list.Length - 1]);
+                        Console.WriteLine("Phone   : " + TD[name]);
+                        Console.WriteLine("**********************************************");
+                    }
+                    break;
             }
         }
     }
