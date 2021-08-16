@@ -140,34 +140,20 @@ namespace TelephoneDirectory
                 if (persons.Contains(updatePerson))
                 {
                     isAnyone = true;
-                    char select;
 
-                    while (true)
-                    {
-                        Console.WriteLine("\nKişiyi güncellemek istiyor musunuz?(E/H)");
-
-                        if (char.TryParse(Console.ReadLine(), out char temp))
-                        {
-                            select = temp;
-                            break;
-                        }
-                        else
-                        {
-                            Console.WriteLine("Geçersiz karakter girdiniz lütfen tekrar deneyiniz...");
-                        }
-                    }
+                    Console.WriteLine("\nKişiyi güncellemek istiyor musunuz?(E/H)");
+                    char select = char.Parse(Console.ReadLine());
 
                     switch (select)
                     {
                         case 'E':
-                            TD.Remove(person);
+                            TD[person] = newNumber;
                             Console.WriteLine("Kişiyi güncelleme işlemi başarılı!");
                             break;
                         case 'H':
                             Console.WriteLine("Kişiyi güncellemekten vazgeçtiniz.");
                             break;
                     }
-
                     break;
                 }
             }
@@ -183,6 +169,9 @@ namespace TelephoneDirectory
             string[] names = new string[TD.Keys.Count];
             TD.Keys.CopyTo(names, 0);
 
+            string[] numbers = new string[TD.Values.Count];
+            TD.Values.CopyTo(numbers, 0);
+
             Console.WriteLine("\n1) A-Z\n2) Z-A\nSıralama türü seçiniz: ");
             int select = int.Parse(Console.ReadLine());
 
@@ -190,7 +179,7 @@ namespace TelephoneDirectory
             {
                 case 1:
                     Array.Sort(names);
-                    Console.WriteLine("Arama sonuçlarınız: \n****************************");
+                    Console.WriteLine("**************************************************");
 
                     foreach (var name in names)
                     {
@@ -205,7 +194,7 @@ namespace TelephoneDirectory
                 case 2:
                     Array.Sort(names);
                     Array.Reverse(names);
-                    Console.WriteLine("Arama sonuçlarınız: \n****************************");
+                    Console.WriteLine("**************************************************");
 
                     foreach (var name in names)
                     {
@@ -214,6 +203,73 @@ namespace TelephoneDirectory
                         Console.WriteLine("Surname : " + list[list.Length - 1]);
                         Console.WriteLine("Phone   : " + TD[name]);
                         Console.WriteLine("**********************************************");
+                    }
+                    break;
+            }
+        }
+
+        public void ToSearchPerson()
+        {
+            string[] names = new string[TD.Keys.Count];
+            TD.Keys.CopyTo(names, 0);
+
+            string[] numbers = new string[TD.Values.Count];
+            TD.Values.CopyTo(numbers, 0);
+
+            Console.WriteLine("\n1)İsim veya soyisime göre arama\n2)Telefon numarasına göre arama\nArama türü seçiniz: ");
+            int select = int.Parse(Console.ReadLine());
+
+            int counter = 0;
+
+            switch (select)
+            {
+                case 1:
+                    Console.WriteLine("İsim ve soyisim giriniz: ");
+                    string keep = Console.ReadLine();
+
+                    Console.WriteLine("****************Arama Sonuçlarınız*****************");
+                    foreach (var name in names)
+                    {
+                        if (name.Contains(keep))
+                        {
+                            string[] search = name.Split(' ');
+                            Console.WriteLine("Name    : " + search[0]);
+                            Console.WriteLine("Surname : " + search[search.Length - 1]);
+                            Console.WriteLine("Phone   : " + TD[name]);
+                            Console.WriteLine("**********************************************");
+                        }
+                    }
+
+                    if (counter == 0)
+                    {
+                        Console.WriteLine("Veri bulunamadı!");
+                    }
+                    break;
+
+                case 2:
+                    Console.WriteLine("Telefon numarası giriniz: ");
+                    string number = Console.ReadLine();
+
+                    Console.WriteLine("**************************************************");
+
+                    foreach (var no in numbers)
+                    {
+                        if (no.Contains(number))
+                        {
+                            counter++;
+                            int nameIndex = Array.IndexOf(numbers, number);
+                            string name = names[nameIndex];
+                            string[] search = name.Split(' ');
+                            Console.WriteLine("Name    : " + search[0]);
+                            Console.WriteLine("Surname : " + search[search.Length - 1]);
+                            Console.WriteLine("Phone   : " + TD[name]);
+                            Console.WriteLine("**********************************************");
+                        }
+                    }
+
+                    if (counter == 0)
+                    {
+                        Console.WriteLine("Veri bulunamadı!");
                     }
                     break;
             }
