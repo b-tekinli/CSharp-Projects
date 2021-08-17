@@ -337,7 +337,7 @@ namespace ToDoApp
             {
 
                 Console.WriteLine("Aradığınız krtiterlere uygun kart board'da bulunamadı!\n");
-                Console.WriteLine("1) Silmeyi sonlandırmak için\n2) Yeniden denemek için\nLütfen bir seçim yapınız: ");
+                Console.WriteLine("1) Taşımayı sonlandırmak için\n2) Yeniden denemek için\nLütfen bir seçim yapınız: ");
 
                 int select;
 
@@ -366,7 +366,6 @@ namespace ToDoApp
                         break;
 
                 }
-
             }
         }
     }

@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\CSharp-Projects\ToDoApp\ToDoApp\bin\Debug\net5.0\ToDoApp.exe
+C:\Users\user\source\repos\CSharp-Projects\ToDoApp\ToDoApp\bin\Debug\net5.0\ToDoApp.deps.json
+C:\Users\user\source\repos\CSharp-Projects\ToDoApp\ToDoApp\bin\Debug\net5.0\ToDoApp.runtimeconfig.json
+C:\Users\user\source\repos\CSharp-Projects\ToDoApp\ToDoApp\bin\Debug\net5.0\ToDoApp.runtimeconfig.dev.json
+C:\Users\user\source\repos\CSharp-Projects\ToDoApp\ToDoApp\bin\Debug\net5.0\ToDoApp.dll
+C:\Users\user\source\repos\CSharp-Projects\ToDoApp\ToDoApp\bin\Debug\net5.0\ref\ToDoApp.dll
+C:\Users\user\source\repos\CSharp-Projects\ToDoApp\ToDoApp\bin\Debug\net5.0\ToDoApp.pdb
+C:\Users\user\source\repos\CSharp-Projects\ToDoApp\ToDoApp\obj\Debug\net5.0\ToDoApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharp-Projects\ToDoApp\ToDoApp\obj\Debug\net5.0\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CSharp-Projects\ToDoApp\ToDoApp\obj\Debug\net5.0\ToDoApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CSharp-Projects\ToDoApp\ToDoApp\obj\Debug\net5.0\ToDoApp.AssemblyInfo.cs
+C:\Users\user\source\repos\CSharp-Projects\ToDoApp\ToDoApp\obj\Debug\net5.0\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharp-Projects\ToDoApp\ToDoApp\obj\Debug\net5.0\ToDoApp.dll
+C:\Users\user\source\repos\CSharp-Projects\ToDoApp\ToDoApp\obj\Debug\net5.0\ref\ToDoApp.dll
+C:\Users\user\source\repos\CSharp-Projects\ToDoApp\ToDoApp\obj\Debug\net5.0\ToDoApp.pdb
+C:\Users\user\source\repos\CSharp-Projects\ToDoApp\ToDoApp\obj\Debug\net5.0\ToDoApp.genruntimeconfig.cache
