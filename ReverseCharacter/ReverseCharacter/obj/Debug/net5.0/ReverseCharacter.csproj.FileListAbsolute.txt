@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\CSharp-Projects\ReverseCharacter\ReverseCharacter\bin\Debug\net5.0\ReverseCharacter.exe
+C:\Users\user\source\repos\CSharp-Projects\ReverseCharacter\ReverseCharacter\bin\Debug\net5.0\ReverseCharacter.deps.json
+C:\Users\user\source\repos\CSharp-Projects\ReverseCharacter\ReverseCharacter\bin\Debug\net5.0\ReverseCharacter.runtimeconfig.json
+C:\Users\user\source\repos\CSharp-Projects\ReverseCharacter\ReverseCharacter\bin\Debug\net5.0\ReverseCharacter.runtimeconfig.dev.json
+C:\Users\user\source\repos\CSharp-Projects\ReverseCharacter\ReverseCharacter\bin\Debug\net5.0\ReverseCharacter.dll
+C:\Users\user\source\repos\CSharp-Projects\ReverseCharacter\ReverseCharacter\bin\Debug\net5.0\ref\ReverseCharacter.dll
+C:\Users\user\source\repos\CSharp-Projects\ReverseCharacter\ReverseCharacter\bin\Debug\net5.0\ReverseCharacter.pdb
+C:\Users\user\source\repos\CSharp-Projects\ReverseCharacter\ReverseCharacter\obj\Debug\net5.0\ReverseCharacter.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharp-Projects\ReverseCharacter\ReverseCharacter\obj\Debug\net5.0\ReverseCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CSharp-Projects\ReverseCharacter\ReverseCharacter\obj\Debug\net5.0\ReverseCharacter.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CSharp-Projects\ReverseCharacter\ReverseCharacter\obj\Debug\net5.0\ReverseCharacter.AssemblyInfo.cs
+C:\Users\user\source\repos\CSharp-Projects\ReverseCharacter\ReverseCharacter\obj\Debug\net5.0\ReverseCharacter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharp-Projects\ReverseCharacter\ReverseCharacter\obj\Debug\net5.0\ReverseCharacter.dll
+C:\Users\user\source\repos\CSharp-Projects\ReverseCharacter\ReverseCharacter\obj\Debug\net5.0\ref\ReverseCharacter.dll
+C:\Users\user\source\repos\CSharp-Projects\ReverseCharacter\ReverseCharacter\obj\Debug\net5.0\ReverseCharacter.pdb
+C:\Users\user\source\repos\CSharp-Projects\ReverseCharacter\ReverseCharacter\obj\Debug\net5.0\ReverseCharacter.genruntimeconfig.cache
