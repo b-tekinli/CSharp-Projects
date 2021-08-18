@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\CSharp-Projects\AreaCalculation\AreaCalculation\bin\Debug\net5.0\AreaCalculation.exe
+C:\Users\user\source\repos\CSharp-Projects\AreaCalculation\AreaCalculation\bin\Debug\net5.0\AreaCalculation.deps.json
+C:\Users\user\source\repos\CSharp-Projects\AreaCalculation\AreaCalculation\bin\Debug\net5.0\AreaCalculation.runtimeconfig.json
+C:\Users\user\source\repos\CSharp-Projects\AreaCalculation\AreaCalculation\bin\Debug\net5.0\AreaCalculation.runtimeconfig.dev.json
+C:\Users\user\source\repos\CSharp-Projects\AreaCalculation\AreaCalculation\bin\Debug\net5.0\AreaCalculation.dll
+C:\Users\user\source\repos\CSharp-Projects\AreaCalculation\AreaCalculation\bin\Debug\net5.0\ref\AreaCalculation.dll
+C:\Users\user\source\repos\CSharp-Projects\AreaCalculation\AreaCalculation\bin\Debug\net5.0\AreaCalculation.pdb
+C:\Users\user\source\repos\CSharp-Projects\AreaCalculation\AreaCalculation\obj\Debug\net5.0\AreaCalculation.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharp-Projects\AreaCalculation\AreaCalculation\obj\Debug\net5.0\AreaCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CSharp-Projects\AreaCalculation\AreaCalculation\obj\Debug\net5.0\AreaCalculation.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CSharp-Projects\AreaCalculation\AreaCalculation\obj\Debug\net5.0\AreaCalculation.AssemblyInfo.cs
+C:\Users\user\source\repos\CSharp-Projects\AreaCalculation\AreaCalculation\obj\Debug\net5.0\AreaCalculation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharp-Projects\AreaCalculation\AreaCalculation\obj\Debug\net5.0\AreaCalculation.dll
+C:\Users\user\source\repos\CSharp-Projects\AreaCalculation\AreaCalculation\obj\Debug\net5.0\ref\AreaCalculation.dll
+C:\Users\user\source\repos\CSharp-Projects\AreaCalculation\AreaCalculation\obj\Debug\net5.0\AreaCalculation.pdb
+C:\Users\user\source\repos\CSharp-Projects\AreaCalculation\AreaCalculation\obj\Debug\net5.0\AreaCalculation.genruntimeconfig.cache
