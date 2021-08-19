@@ -6,7 +6,7 @@ namespace ReverseCharacter
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("***** KARAKTER TERSTEN YAZDIRMA *****");
+            Console.WriteLine("***** KARAKTER DEĞİŞTİRME *****");
 
             Console.Write("Kelime giriniz: ");
             string word = Console.ReadLine();
