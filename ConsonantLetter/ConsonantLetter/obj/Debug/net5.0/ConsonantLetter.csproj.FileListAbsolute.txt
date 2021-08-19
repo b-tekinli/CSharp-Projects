@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\CSharp-Projects\ConsonantLetter\ConsonantLetter\bin\Debug\net5.0\ConsonantLetter.exe
+C:\Users\user\source\repos\CSharp-Projects\ConsonantLetter\ConsonantLetter\bin\Debug\net5.0\ConsonantLetter.deps.json
+C:\Users\user\source\repos\CSharp-Projects\ConsonantLetter\ConsonantLetter\bin\Debug\net5.0\ConsonantLetter.runtimeconfig.json
+C:\Users\user\source\repos\CSharp-Projects\ConsonantLetter\ConsonantLetter\bin\Debug\net5.0\ConsonantLetter.runtimeconfig.dev.json
+C:\Users\user\source\repos\CSharp-Projects\ConsonantLetter\ConsonantLetter\bin\Debug\net5.0\ConsonantLetter.dll
+C:\Users\user\source\repos\CSharp-Projects\ConsonantLetter\ConsonantLetter\bin\Debug\net5.0\ref\ConsonantLetter.dll
+C:\Users\user\source\repos\CSharp-Projects\ConsonantLetter\ConsonantLetter\bin\Debug\net5.0\ConsonantLetter.pdb
+C:\Users\user\source\repos\CSharp-Projects\ConsonantLetter\ConsonantLetter\obj\Debug\net5.0\ConsonantLetter.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharp-Projects\ConsonantLetter\ConsonantLetter\obj\Debug\net5.0\ConsonantLetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CSharp-Projects\ConsonantLetter\ConsonantLetter\obj\Debug\net5.0\ConsonantLetter.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CSharp-Projects\ConsonantLetter\ConsonantLetter\obj\Debug\net5.0\ConsonantLetter.AssemblyInfo.cs
+C:\Users\user\source\repos\CSharp-Projects\ConsonantLetter\ConsonantLetter\obj\Debug\net5.0\ConsonantLetter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharp-Projects\ConsonantLetter\ConsonantLetter\obj\Debug\net5.0\ConsonantLetter.dll
+C:\Users\user\source\repos\CSharp-Projects\ConsonantLetter\ConsonantLetter\obj\Debug\net5.0\ref\ConsonantLetter.dll
+C:\Users\user\source\repos\CSharp-Projects\ConsonantLetter\ConsonantLetter\obj\Debug\net5.0\ConsonantLetter.pdb
+C:\Users\user\source\repos\CSharp-Projects\ConsonantLetter\ConsonantLetter\obj\Debug\net5.0\ConsonantLetter.genruntimeconfig.cache
