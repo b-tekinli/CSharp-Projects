@@ -7,9 +7,9 @@ namespace ReverseCharacter
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("***** KARAKTER DEĞİŞTİRME *****");
+            Console.WriteLine("***** KARAKTER TERSTEN YAZDIRMA *****");
 
-            Console.Write("Yazı Giriniz : ");
+            Console.Write("Metin giriniz : ");
             string text = Console.ReadLine();
 
             char[] arr = text.ToCharArray();
