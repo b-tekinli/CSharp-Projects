@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\CSharp-Projects\Absolutesquaring\Absolutesquaring\bin\Debug\net5.0\Absolutesquaring.exe
+C:\Users\user\source\repos\CSharp-Projects\Absolutesquaring\Absolutesquaring\bin\Debug\net5.0\Absolutesquaring.deps.json
+C:\Users\user\source\repos\CSharp-Projects\Absolutesquaring\Absolutesquaring\bin\Debug\net5.0\Absolutesquaring.runtimeconfig.json
+C:\Users\user\source\repos\CSharp-Projects\Absolutesquaring\Absolutesquaring\bin\Debug\net5.0\Absolutesquaring.runtimeconfig.dev.json
+C:\Users\user\source\repos\CSharp-Projects\Absolutesquaring\Absolutesquaring\bin\Debug\net5.0\Absolutesquaring.dll
+C:\Users\user\source\repos\CSharp-Projects\Absolutesquaring\Absolutesquaring\bin\Debug\net5.0\ref\Absolutesquaring.dll
+C:\Users\user\source\repos\CSharp-Projects\Absolutesquaring\Absolutesquaring\bin\Debug\net5.0\Absolutesquaring.pdb
+C:\Users\user\source\repos\CSharp-Projects\Absolutesquaring\Absolutesquaring\obj\Debug\net5.0\Absolutesquaring.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharp-Projects\Absolutesquaring\Absolutesquaring\obj\Debug\net5.0\Absolutesquaring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CSharp-Projects\Absolutesquaring\Absolutesquaring\obj\Debug\net5.0\Absolutesquaring.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CSharp-Projects\Absolutesquaring\Absolutesquaring\obj\Debug\net5.0\Absolutesquaring.AssemblyInfo.cs
+C:\Users\user\source\repos\CSharp-Projects\Absolutesquaring\Absolutesquaring\obj\Debug\net5.0\Absolutesquaring.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharp-Projects\Absolutesquaring\Absolutesquaring\obj\Debug\net5.0\Absolutesquaring.dll
+C:\Users\user\source\repos\CSharp-Projects\Absolutesquaring\Absolutesquaring\obj\Debug\net5.0\ref\Absolutesquaring.dll
+C:\Users\user\source\repos\CSharp-Projects\Absolutesquaring\Absolutesquaring\obj\Debug\net5.0\Absolutesquaring.pdb
+C:\Users\user\source\repos\CSharp-Projects\Absolutesquaring\Absolutesquaring\obj\Debug\net5.0\Absolutesquaring.genruntimeconfig.cache
