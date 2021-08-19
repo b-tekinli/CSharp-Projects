@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfIntegerBinaries", "SumOfIntegerBinaries\SumOfIntegerBinaries.csproj", "{1C08B2C3-E385-441B-86D7-ED620581B906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C08B2C3-E385-441B-86D7-ED620581B906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C08B2C3-E385-441B-86D7-ED620581B906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C08B2C3-E385-441B-86D7-ED620581B906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C08B2C3-E385-441B-86D7-ED620581B906}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4830182A-C73A-4A6C-9539-F5EB3DA9FE95}
+	EndGlobalSection
+EndGlobal

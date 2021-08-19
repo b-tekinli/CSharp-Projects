@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\CSharp-Projects\SumOfIntegerBinaries\SumOfIntegerBinaries\bin\Debug\net5.0\SumOfIntegerBinaries.exe
+C:\Users\user\source\repos\CSharp-Projects\SumOfIntegerBinaries\SumOfIntegerBinaries\bin\Debug\net5.0\SumOfIntegerBinaries.deps.json
+C:\Users\user\source\repos\CSharp-Projects\SumOfIntegerBinaries\SumOfIntegerBinaries\bin\Debug\net5.0\SumOfIntegerBinaries.runtimeconfig.json
+C:\Users\user\source\repos\CSharp-Projects\SumOfIntegerBinaries\SumOfIntegerBinaries\bin\Debug\net5.0\SumOfIntegerBinaries.runtimeconfig.dev.json
+C:\Users\user\source\repos\CSharp-Projects\SumOfIntegerBinaries\SumOfIntegerBinaries\bin\Debug\net5.0\SumOfIntegerBinaries.dll
+C:\Users\user\source\repos\CSharp-Projects\SumOfIntegerBinaries\SumOfIntegerBinaries\bin\Debug\net5.0\ref\SumOfIntegerBinaries.dll
+C:\Users\user\source\repos\CSharp-Projects\SumOfIntegerBinaries\SumOfIntegerBinaries\bin\Debug\net5.0\SumOfIntegerBinaries.pdb
+C:\Users\user\source\repos\CSharp-Projects\SumOfIntegerBinaries\SumOfIntegerBinaries\obj\Debug\net5.0\SumOfIntegerBinaries.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharp-Projects\SumOfIntegerBinaries\SumOfIntegerBinaries\obj\Debug\net5.0\SumOfIntegerBinaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CSharp-Projects\SumOfIntegerBinaries\SumOfIntegerBinaries\obj\Debug\net5.0\SumOfIntegerBinaries.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CSharp-Projects\SumOfIntegerBinaries\SumOfIntegerBinaries\obj\Debug\net5.0\SumOfIntegerBinaries.AssemblyInfo.cs
+C:\Users\user\source\repos\CSharp-Projects\SumOfIntegerBinaries\SumOfIntegerBinaries\obj\Debug\net5.0\SumOfIntegerBinaries.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharp-Projects\SumOfIntegerBinaries\SumOfIntegerBinaries\obj\Debug\net5.0\SumOfIntegerBinaries.dll
+C:\Users\user\source\repos\CSharp-Projects\SumOfIntegerBinaries\SumOfIntegerBinaries\obj\Debug\net5.0\ref\SumOfIntegerBinaries.dll
+C:\Users\user\source\repos\CSharp-Projects\SumOfIntegerBinaries\SumOfIntegerBinaries\obj\Debug\net5.0\SumOfIntegerBinaries.pdb
+C:\Users\user\source\repos\CSharp-Projects\SumOfIntegerBinaries\SumOfIntegerBinaries\obj\Debug\net5.0\SumOfIntegerBinaries.genruntimeconfig.cache
