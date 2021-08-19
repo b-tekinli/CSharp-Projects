@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace ReverseCharacter
 {
@@ -6,21 +7,14 @@ namespace ReverseCharacter
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("***** KARAKTER TERSTEN YAZDIRMA *****");
+            Console.WriteLine("***** KARAKTER DEĞİŞTİRME *****");
 
-            Console.Write("Kelime giriniz: ");
-            string word = Console.ReadLine();
+            Console.Write("Yazı Giriniz : ");
+            string text = Console.ReadLine();
 
-            char[] array = word.ToCharArray();
+            char[] arr = text.ToCharArray();
 
-            char temp = array[0];
-
-            char last = array[array.Length - 1];
-
-            array[0] = last;
-            array[array.Length - 1] = temp;
-
-            foreach (var item in array)
+            foreach (var item in arr.Reverse())
             {
                 Console.Write(item);
             }
