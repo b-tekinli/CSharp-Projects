@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\CSharp-Projects\AtmApp\AtmApp\bin\Debug\net5.0\AtmApp.exe
+C:\Users\user\source\repos\CSharp-Projects\AtmApp\AtmApp\bin\Debug\net5.0\AtmApp.deps.json
+C:\Users\user\source\repos\CSharp-Projects\AtmApp\AtmApp\bin\Debug\net5.0\AtmApp.runtimeconfig.json
+C:\Users\user\source\repos\CSharp-Projects\AtmApp\AtmApp\bin\Debug\net5.0\AtmApp.runtimeconfig.dev.json
+C:\Users\user\source\repos\CSharp-Projects\AtmApp\AtmApp\bin\Debug\net5.0\AtmApp.dll
+C:\Users\user\source\repos\CSharp-Projects\AtmApp\AtmApp\bin\Debug\net5.0\ref\AtmApp.dll
+C:\Users\user\source\repos\CSharp-Projects\AtmApp\AtmApp\bin\Debug\net5.0\AtmApp.pdb
+C:\Users\user\source\repos\CSharp-Projects\AtmApp\AtmApp\obj\Debug\net5.0\AtmApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharp-Projects\AtmApp\AtmApp\obj\Debug\net5.0\AtmApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CSharp-Projects\AtmApp\AtmApp\obj\Debug\net5.0\AtmApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CSharp-Projects\AtmApp\AtmApp\obj\Debug\net5.0\AtmApp.AssemblyInfo.cs
+C:\Users\user\source\repos\CSharp-Projects\AtmApp\AtmApp\obj\Debug\net5.0\AtmApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharp-Projects\AtmApp\AtmApp\obj\Debug\net5.0\AtmApp.dll
+C:\Users\user\source\repos\CSharp-Projects\AtmApp\AtmApp\obj\Debug\net5.0\ref\AtmApp.dll
+C:\Users\user\source\repos\CSharp-Projects\AtmApp\AtmApp\obj\Debug\net5.0\AtmApp.pdb
+C:\Users\user\source\repos\CSharp-Projects\AtmApp\AtmApp\obj\Debug\net5.0\AtmApp.genruntimeconfig.cache

@@ -18,7 +18,7 @@ namespace AtmApp
                     Logger.CreateFile(LogTypes.Fraud, fwd, null, "Hata: Para gönderme.");
                     return Operations.insufficientBalance;
                 }
-                else if (fwd.IBAN == to.IBAN)
+                else if (fwd.iban == to.iban)
                 {
                     Logger.CreateFile(LogTypes.Fraud, fwd, null, "Hata: IBAN numaraları aynı!");
                     return Operations.insufficientBalance;
@@ -36,6 +36,14 @@ namespace AtmApp
                 Logger.CreateFile(LogTypes.Fraud, fwd, null, "Hata: Geçersiz giriş!");
                 return Operations.insufficientBalance;
             }
+        }
+
+        public static Person SendMoney()
+        {
+            Console.WriteLine("Para transferi yapacağınız IBAN numarasını giriniz: ");
+            string iban = Console.ReadLine().Trim();
+
+            return Program.persons.FirstOrDefault(x => x.iban == iban);
         }
     }
 }

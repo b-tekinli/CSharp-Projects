@@ -10,7 +10,7 @@ namespace AtmApp
     {
         public string identityNo { get; set; }
         public string fullname { get; set; }
-        public string IBAN { get; set; }
+        public string iban { get; set; }
         public string pass { get; set; }
         public float balance { get; set; }
     }
